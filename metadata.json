@@ -1,0 +1,6 @@
+{
+  "name": "پلتفرم رپورتاژ آگهی",
+  "description": "پلتفرم جامع خرید و فروش رپورتاژ آگهی و مدیریت کمپین‌های تبلیغاتی مشابه رپورتا و تسمینو",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
